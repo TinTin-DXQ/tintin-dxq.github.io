@@ -12,9 +12,9 @@ description: "个人技术公众号：tintin  分享编程资源 | 学习路线"
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/TinTin-DXQ/pic/blob/main/aa.png
+# avatar: https://github.com/TinTin-DXQ/pic/blob/main/aa.png
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://github.com/TinTin-DXQ/pic/blob/main/s.ico
+# favicon: https://github.com/TinTin-DXQ/pic/blob/main/s.ico
 
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
