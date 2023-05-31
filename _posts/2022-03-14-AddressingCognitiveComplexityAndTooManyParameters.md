@@ -122,7 +122,7 @@
                     
                 - 抽离方法快捷操作（！！！需要注意代码模块是否在逻辑上关联 ，不要仅仅为了解决复杂度而打断流程）
                     
-                    ![extractmethod]([https://github.com/TinTin-DXQ/tintin-dxq.github.io/blob/master/images/extractmethod.png](https://github.com/TinTin-DXQ/tintin-dxq.github.io/blob/master/images/AddressingCognitiveComplexityAndTooManyParameters/extractmethod.png))
+                    ![extractmethod](https://github.com/TinTin-DXQ/tintin-dxq.github.io/blob/master/images/extractmethod.png)
                     
             - 简化if else、switch
                 - 提前return，去除不必要的else
