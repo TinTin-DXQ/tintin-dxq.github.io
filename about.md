@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ## 关于我
-你好，我是程序员tintin。
+你好，我是Avia。
 
 
 ## 版权声明
