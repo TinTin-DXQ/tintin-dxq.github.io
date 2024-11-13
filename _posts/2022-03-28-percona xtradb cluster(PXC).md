@@ -1,5 +1,3 @@
-# percona xtradb cluster（PXC）
-
 ## 简介
 
 - percona xtradb cluster
